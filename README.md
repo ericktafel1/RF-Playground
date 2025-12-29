@@ -1,4 +1,7 @@
 # HackRF SDR Learning & Experimentation
+
+![FM Reception Pic](Rx_FM/SDR_Photo.jpeg)
+
 ## Overview
 This repository documents my journey learning Software Defined Radio (SDR) and RF fundamentals using the HackRF One. Following the excellent "Practical SDR" book by David Clark and Paul Clark, I've created various GNU Radio flowgraphs to receive and transmit radio signals.
 
