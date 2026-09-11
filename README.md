@@ -1,6 +1,8 @@
 # RF Playground
 
-![FM Reception Pic](Rx_FM/SDR_Photo.jpeg)
+  <img src="Rx_FM/SDR_Photo.jpeg"
+       alt="Silly Setup"
+       width="300">
 
 ## Overview
 This repository documents my journey learning Software Defined Radio (SDR) and RF fundamentals using the HackRF One. Following the excellent "Practical SDR" book by David Clark and Paul Clark, I've created various GNU Radio flowgraphs to receive and transmit radio signals.
