@@ -56,7 +56,7 @@ All transmissions documented in this repository comply with FCC regulations for 
 <div align="center">
   <img src="sdrdemon-jam.png"
        alt="SDRDemon2"
-       width="900">
+       width="1300">
 </div>
 
 ## Screenshots
