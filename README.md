@@ -1,8 +1,10 @@
 # RF Playground
 
+<div align="center">
   <img src="Rx_FM/SDR_Photo.jpeg"
        alt="Silly Setup"
        width="300">
+</div>
 
 ## Overview
 This repository documents my journey learning Software Defined Radio (SDR) and RF fundamentals using the HackRF One. Following the excellent "Practical SDR" book by David Clark and Paul Clark, I've created various GNU Radio flowgraphs to receive and transmit radio signals.
@@ -44,6 +46,17 @@ All transmissions documented in this repository comply with FCC regulations for 
 - Car Key Fob Replay: Capture and analysis of remote keyless entry signals
 - ADS-B Aircraft Tracking: Recieve and track commercial aircraft ADS-B data
 - Signal Analysis: Exploration of signals in the MF, HF, VHF and UHF frequency bands
+- SDRDemon: a private desktop SDR utility designed for capturing, replaying, GPS spoofing, man-in-the-middle (MitM), jamming, and passive drone detection across supported hardware like HackRF, USRP, and RTL-SDR devices. It includes a Debug tab, a RF Calculator, and a Setup / Safety tab to estimate Link Budget and ensure safe operation.
+<div align="center">
+  <img src="SDRDemon/assets/sdrdemon-logo.png"
+       alt="Silly Setup"
+       width="300">
+</div>
+<div align="center">
+  <img src="SDRDemon/assets/sdrdemon-sim.png"
+       alt="Silly Setup"
+       width="300">
+</div>
 
 ## Screenshots
 Flowgraph examples and spectrum analyzer outputs are included in the respective project folders.
